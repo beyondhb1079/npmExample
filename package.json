@@ -1,0 +1,17 @@
+{
+  "name": "undocuscholar-web",
+  "version": "1.0.0",
+  "description": "Third party libraries required by the UndocuScholar web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.3.0",
+    "materialize-css": "^0.97.7",
+    "perfect-scrollbar": "^0.6.12",
+    "prismjs": "^1.5.1"
+  }
+}
